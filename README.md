@@ -1,5 +1,5 @@
 #
-# :scroll: | Cursos de Hacking e Programação
+# :scroll: | Cursos de Hacking
 #### Servidor de Hacking [White Hat Brasil](https://discord.gg/ZNcxA6n) no Discord.
 #
 
@@ -17,7 +17,7 @@
 
 
 
-## :tophat: -  Hacking
+## :tophat: -  Categorias
 
 <br>
 
