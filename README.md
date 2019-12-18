@@ -1,6 +1,6 @@
 #
 # :scroll: | Cursos de Hacking
-#### Servidor de Hacking [White Hat Brasil](https://discord.gg/ZNcxA6n) no Discord.
+#### Servidor de Hacking [Cyan Security](https://discord.gg/ZNcxA6n) no Discord.
 #
 
 <p align="center">
